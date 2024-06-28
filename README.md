@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/pratichi-singh0101/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/amanabhishek922" target="_blank">
+  <a href="https://www.hackerrank.com/profile/pratichi3" target="_blank">
     <i>HackerRank</i>
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="hackerrank" height="30" width="40" />
   </a>
