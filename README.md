@@ -3,13 +3,13 @@
 </h3>
 <h4 align="left">🌱 I’m currently a graduate student at George Washington University</b></h4>
 <br>
-<img align="right" alt="coding" width="200" height="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="200" height="200" src="">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pratichi&label=Profile%20views&color=0e75b6&style=flat" alt="pratichi" />
 </p>
 
-- 📫 How to reach me **pratichi.lnu@gwmail.gwu.edu**
+- 📫 How to reach me **pratichi.lnu@gwu.edu**
 
 - 📄 Know about my experiences: <br>
   [Resume](https://drive.google.com/file/d/1A-Dg0fsPtu8F3UTyKcFG2bg4sGXIR_Gu/view?usp=drive_link)
