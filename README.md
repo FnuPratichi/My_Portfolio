@@ -3,7 +3,6 @@
 <h3 align="center">Software Development | Data Science | Machine Learning | Python</h3>
 <img align="right" alt="Coding" width="400" src="image.png">
 
-<p align="left"> <a href="https://twitter.com/rohan_dawkhar" target="blank"><img src="https://img.shields.io/twitter/follow/rohan_dawkhar?logo=twitter&style=for-the-badge" alt="rohan_dawkhar" /></a> </p>
 
 
 🌱 I’m currently a graduate Student at The George Washington University.<br>
