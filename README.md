@@ -1,4 +1,22 @@
-<h1 align="center">Hey 👋, I'm Pratichi</h1>
+ <!-- ======= Intro Section ======= -->
+   <div id="home" class="intro route bg-image" style="background-image: url(assets/img/usc_.jpg)">
+     <div class="overlay-itro"></div>
+     <div class="intro-content display-table">
+       <div class="table-cell">
+         <div class="container">
+          <p class="display-6 color-d" style="font-size: 110%">print(<strong>"Hello, World"</strong>)</p>
+           <h1 class="intro-title mb-2" style="font-family: cursive">I am Kanika Jindal</h1>
+
+           <p class="intro-subtitle"><span class="text-slider-items">I can advice you on a AI/ML solution, I can analyze your  Data, Software Developer, A Singer - Songwriter, Blogger</span><strong class="text-slider">I can advice you on a AI/ML solutio</strong><span class="typed-cursor">|</span></p>
+
+           <!--<p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">About Me</a></p> -->
+         </div>
+       </div>
+     </div>
+   </div><!-- End Intro Section -->
+   
+   
+   <h1 align="center">Hey 👋, I'm Pratichi</h1>
 <h3 align="center">👀 I’m interested in Software Development and Data Science.
 </h3>
 <h4 align="left">🌱 I’m currently a graduate student at George Washington University</b></h4>
