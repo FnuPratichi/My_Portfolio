@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <a href="https://linktr.ee/rohandawkhar">
-            <img src="" alt="MasterHead" class="header-img">
+            <img src="https://www.google.com/search?sca_esv=458fc5d25ecd7a59&sxsrf=ADLYWIJTEq9NwtgvWXoOtVYPbw6gHNLsXg:1720820366148&q=software+and+ml+background+image&udm=2&fbs=AEQNm0AbzhUJjXv6jRup8eVc0BvPyH5PazCaW205cG-Bd0in0SeU-Q4GVbDidOCCAlv8ddz_JDlkDHfHwu6ZdNN2gK7iwmPflMjTXNE3D4dG3cbrOKNfHaV1RN-jH5INQjna5wQx46aObV1gElNVxObSibzKOI7BpW3oR_Ci7GfkaAr4x0Ebs9yfytP3Ug8D3v6HPoi3zUWiEEyjG4r-XfnY74QMRP1vhA&sa=X&ved=2ahUKEwi51pW1u6KHAxXDG9AFHanBAM4QtKgLegQIDBAB&biw=1470&bih=799&dpr=2#vhid=Gpw6ANhfAzD68M&vssid=mosaic" alt="MasterHead" class="header-img">
         </a>
         <h1>Hi 👋, I'm Pratichi</h1>
         <h3>Data Science | Software Development</h3>
