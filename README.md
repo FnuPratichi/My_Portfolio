@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <a href="https://linktr.ee/rohandawkhar">
-            <img src="https://www.mit.edu/files/images/202211/MIT-Neural-Networks-SL.gif" alt="MasterHead" class="header-img">
+            <img src="" alt="MasterHead" class="header-img">
         </a>
         <h1>Hi 👋, I'm Pratichi</h1>
         <h3>Data Science | Software Development</h3>
