@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mit.edu/files/images/202211/MIT-Neural-Networks-SL.gif)](https://linktr.ee/rohandawkhar)
+
 <h1 align="center">Hi 👋, I'm Pratichi</h1>
 <h3 align="center">Software Development | Data Science | Machine Learning | Python</h3>
 <img align="right" alt="Coding" width="400" src="image.png">
