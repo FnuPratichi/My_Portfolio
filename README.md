@@ -14,7 +14,7 @@
 
 📫 Reach me on <a href="https://www.linkedin.com/in/pratichi11/" class="links">LinkedIn</a>
 
-📄 Know about my experiences [https://drive.google.com/file/d/1hA-qybYm3dT8NrN8f2ZD0tvbeqE3DF_Q/view?usp=drive_link](https://drive.google.com/file/d/1hA-qybYm3dT8NrN8f2ZD0tvbeqE3DF_Q/view?usp=drive_link)
+📄 Know about my experiences [https://drive.google.com/file/d/1hA-qybYm3dT8NrN8f2ZD0tvbeqE3DF_Q/view?usp=drive_link](https://drive.google.com/file/d/125qR-IN9aj4VIBK6mIocEP-tfRYvc4cW/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
