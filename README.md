@@ -65,9 +65,6 @@ Here is the corrected HTML snippet for your languages and tools section. I fixed
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
   </a>
@@ -80,9 +77,7 @@ Here is the corrected HTML snippet for your languages and tools section. I fixed
   <a href="https://www.oracle.com/tools/developer-tools/sql-developer/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="sql_developer" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/tools/data-modeling/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle_data_modeler" width="40" height="40"/>
-  </a>
+
   <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
     <img src="https://www.example.com/soapui-icon.svg" alt="soapui" width="40" height="40"/> <!-- Placeholder -->
   </a>
@@ -94,5 +89,8 @@ Here is the corrected HTML snippet for your languages and tools section. I fixed
   </a>
   <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="ec2" width="40" height="40"/>
+  </a>
+   <a href="https://www.oracle.com/tools/data-modeling/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle_data_modeler" width="40" height="40"/>
   </a>
 </p>
