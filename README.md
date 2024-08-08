@@ -10,7 +10,7 @@
 
 💞️ I’m looking to collaborate on ML and Software Engineering projects.<br>
 
-📝 I regularly write articles on [https://medium.com/@pratichi3](https://medium.com/@pratichi3)
+📝 I regularly write articles on[https://medium.com/@pratichi3](https://medium.com/@pratichi3)
 
 📫 Reach me on <a href="https://www.linkedin.com/in/pratichi11/" class="links">LinkedIn</a>
 
