@@ -64,8 +64,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactjs" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <a href="https://flask.palletsprojects.com/en/stable/">
+    <img src="https://en.wikipedia.org/wiki/Flask_%28web_framework%29"/>
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
@@ -75,13 +75,13 @@
   </a>
 
   <a href="https://www.soapui.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.example.com/soapui-icon.svg" alt="soapui" width="40" height="40"/> <!-- Placeholder -->
+    <img src="https://www.example.com/soapui-icon.svg" alt="soapui" width="40" height="40"/> 
   </a>
   <a href="https://rally1.rallydev.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.example.com/rally-icon.svg" alt="rally" width="40" height="40"/> <!-- Placeholder -->
+    <img src="https://www.example.com/rally-icon.svg" alt="rally" width="40" height="40"/> 
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.example.com/dbeaver-icon.svg" alt="dbeaver" width="40" height="40"/> <!-- Placeholder -->
+    <img src="https://www.example.com/dbeaver-icon.svg" alt="dbeaver" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com/ec2/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="ec2" width="40" height="40"/>
