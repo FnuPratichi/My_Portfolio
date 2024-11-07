@@ -20,8 +20,6 @@
 <p align="left"><a href="https://www.linkedin.com/in/pratichi11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratichi11/" height="30" width="40" /></a><a href="https://www.instagram.com/pratichi_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pratichi_02/" height="30" width="40" /></a><a href="https://medium.com/@pratichi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@pratichi3" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/pratichi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pratichi3" height="30" width="40" /></a></p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-Here is the corrected HTML snippet for your languages and tools section. I fixed some minor issues and ensured that all links and images are properly aligned:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
