@@ -16,7 +16,6 @@
 
 📄 Know about my experiences [https://drive.google.com/file/d/1hA-qybYm3dT8NrN8f2ZD0tvbeqE3DF_Q/view?usp=drive_link](https://drive.google.com/file/d/125qR-IN9aj4VIBK6mIocEP-tfRYvc4cW/view?usp=sharing)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://www.linkedin.com/in/pratichi11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratichi11/" height="30" width="40" /></a><a href="https://www.instagram.com/pratichi_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pratichi_02/" height="30" width="40" /></a><a href="https://medium.com/@pratichi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@pratichi3" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/pratichi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pratichi3" height="30" width="40" /></a></p>
 
