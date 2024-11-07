@@ -1,32 +1,42 @@
-
-<h1 align="center">Hi 👋, I'm Pratichi</h1>
-<h3 align="center">Interests : Software Development | Machine Learning | Software Testing</h3>
-<img align="right" alt="Coding" width="400" src="image.png">
-
-
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/FnuPratichi&query=$.public_repos&label=Profile%20Views&color=blue)
 
-🌱 I’m currently a graduate Student at The George Washington University.<br>
+<h1 align="center">Hey there! 👋 I'm Pratichi</h1>
+<h3 align="center">🚀 Graduate Student | 🌐 Software Developer | 🤖 Machine Learning Enthusiast | 🔍 Software Testing Pro</h3>
 
-💞️ I’m looking to collaborate on ML and Software Engineering projects.<br>
+<p align="center">
+  <img src="https://shields.io/badge/dynamic/json?url=https://api.github.com/users/FnuPratichi&query=$.public_repos&label=GitHub%20Repos&color=blue" alt="GitHub Repos Count"/>
+  <img src="https://img.shields.io/badge/Articles%20on-Medium-%2312100E.svg?logo=medium&color=blue" alt="Articles on Medium"/>
+</p>
 
-📝 I regularly write articles on[https://medium.com/@pratichi3](https://medium.com/@pratichi3)
+<img align="right" alt="Coding" width="350" src="image.png" />
 
-📫 Reach me on <a href="https://www.linkedin.com/in/pratichi11/" class="links">LinkedIn</a>
+<h2>🌟 About Me</h2>
+<p>
+  🎓 <strong>Graduate Student</strong> at <strong>The George Washington University</strong><br>
+  🤝 Open to collaborations in <strong>Machine Learning</strong> & <strong>Software Engineering</strong><br>
+  📝 Sharing insights on <a href="https://medium.com/@pratichi3" target="_blank">Medium</a><br>
+  📬 Let's connect on <a href="https://www.linkedin.com/in/pratichi11/" target="_blank">LinkedIn</a><br>
+  📄 Check out my <a href="https://drive.google.com/file/d/125qR-IN9aj4VIBK6mIocEP-tfRYvc4cW/view?usp=sharing" target="_blank">Resume</a><br>
+</p>
 
-📄 Know about my experiences [https://drive.google.com/file/d/1hA-qybYm3dT8NrN8f2ZD0tvbeqE3DF_Q/view?usp=drive_link](https://drive.google.com/file/d/125qR-IN9aj4VIBK6mIocEP-tfRYvc4cW/view?usp=sharing)
+<h2>🔗 Let's Connect</h2>
+<p>
+  <a href="https://www.linkedin.com/in/pratichi11/" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/pratichi_02/" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://medium.com/@pratichi3" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium" width="40" height="40"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/pratichi3" target="blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="Hackerrank" width="40" height="40"/>
+  </a>
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://www.linkedin.com/in/pratichi11/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratichi11/" height="30" width="40" /></a><a href="https://www.instagram.com/pratichi_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pratichi_02/" height="30" width="40" /></a><a href="https://medium.com/@pratichi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@pratichi3" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/pratichi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pratichi3" height="30" width="40" /></a></p>
-
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h2>💻 Languages & Tools</h2>
+<p>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
@@ -90,4 +100,17 @@
   <a href="https://www.oracle.com/tools/data-modeling/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle_data_modeler" width="40" height="40"/>
   </a>
+  <a href="https://www.jira.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/>
+  </a>
+</p>
+
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=FnuPratichi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=FnuPratichi&theme=radical" alt="GitHub Streak"/>
+</p>
+<br><br><br>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FnuPratichi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
