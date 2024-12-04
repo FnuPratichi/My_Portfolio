@@ -21,7 +21,7 @@
     🤝 Always open to collaborations and opportunities in the tech space.<br>
     📝 Check out my articles on <a href="https://medium.com/@pratichi3" target="_blank" style="color: #ffcc00;">Medium</a><br>
     📬 Connect with me on <a href="https://www.linkedin.com/in/pratichi11/" target="_blank" style="color: #ffcc00;">LinkedIn</a><br>
-    📄 View my <a href="https://drive.google.com/file/d/125qR-IN9aj4VIBK6mIocEP-tfRYvc4cW/view?usp=sharing" target="_blank" style="color: #ffcc00;">Resume</a>
+    📄 View my <a href="https://drive.google.com/file/d/1QjnuZTgM4n7QXOYLNZLdkGT6wIQNwT-s/view?usp=sharing">Resume</a>
 </p>
 
 <h2 align="center">🔗 Let's Connect</h2>
