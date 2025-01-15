@@ -1,7 +1,7 @@
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/FnuPratichi&query=$.public_repos&label=Profile%20Views&color=blue)
 
 <h1><strong>Hey there! 👋 I'm Pratichi</strong></h1>
-<h3>🚀 Graduate Student at GWU | 🔍 Software Tester | 🤖 ML Enthusiast | 🌐 Software Developer</h3>
+<h3>🚀 Graduate Student at GWU | 🌐 Software Developer | 🤖 ML Enthusiast| 🔍 Former SDET in Amdocs | Comcast </h3>
 <p align="center">💻 Currently diving deep into <strong>Machine Learning</strong> and <strong>Software Engineering</strong></p>
 
 
