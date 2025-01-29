@@ -42,7 +42,10 @@
         <img src="https://img.icons8.com/color/48/000000/quora.png" alt="Quora"/>
     </a>
     <a href="https://www.geeksforgeeks.org/user/noob_pratichi/" target="blank">
-        <img src="" alt="GeeksforGeeks"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" height="48" alt="GeeksforGeeks"/>
+    </a>
+    <a href="https://leetcode.com/u/prat_noob/" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode"/>
     </a>
     
 </div>
