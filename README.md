@@ -41,6 +41,10 @@
     <a href="https://www.quora.com/profile/Pratichi-11" target="blank">
         <img src="https://img.icons8.com/color/48/000000/quora.png" alt="Quora"/>
     </a>
+    <a href="https://www.geeksforgeeks.org/user/noob_pratichi/" target="blank">
+        <img src="" alt="GeeksforGeeks"/>
+    </a>
+    
 </div>
 
 
