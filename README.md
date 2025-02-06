@@ -17,11 +17,11 @@
 <h2>🌟 About Me</h2>
 <p align="left">
     🎓 Graduate Student at <strong>George Washington University</strong><br>
-    💻 Passionate about <strong>Software Testing</strong>, <strong>Software Engineering</strong>, and <strong>Machine Learning</strong><br>
+    💻 Passionate about <strong>Software Development</strong>,  <strong>Solving Problems<strong>, and <strong>Data Science</strong><br>
     🤝 Always open to collaborations and opportunities in the tech space.<br>
     📝 Check out my articles on <a href="https://medium.com/@pratichi3" target="_blank" style="color: #ffcc00;">Medium</a><br>
     📬 Connect with me on <a href="https://www.linkedin.com/in/pratichi11/" target="_blank" style="color: #ffcc00;">LinkedIn</a><br>
-    📄 View my <a href="https://drive.google.com/file/d/1UrrkWS6f-KDnPUUPgdyY7mxBqSNW6S-1/view?usp=drive_link">Resume</a>
+    📄 View my <a href="https://drive.google.com/file/d/1HEN1bSbsGOmLCcraWxoHo3VanupZ5Y3Y/view?usp=drive_link">Resume</a>
 </p>
 
 <h2 align="center">🔗 Let's Connect</h2>
