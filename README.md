@@ -13,7 +13,8 @@
 
 ### 🌟 About Me
 
-- 🎓 I'm currently pursuing my Master’s in Computer Science at **George Washington University**  
+- 🎓 I'm currently pursuing my Master’s in Computer Science at **George Washington University**
+- 💼 I bring 2 years of work experience in Software Engineering
 - 💡 I'm passionate about **Software Development**, **Problem Solving**, and **Data Science**
 - 🌱 I’m always learning and exploring areas like **AI**, **Cloud**, and **System Design**
 - 🤝 I'm open to **Full-Time SDE Opportunities**, **collaborations**, **research**, or **internship opportunities**
