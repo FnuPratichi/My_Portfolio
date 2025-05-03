@@ -1,8 +1,8 @@
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/FnuPratichi&query=$.public_repos&label=Profile%20Views&color=blue)
 
 <h1><strong>Hey there! 👋 I'm Pratichi</strong></h1>
-<h3>🚀 Graduate Student at GWU | 🌐 Software Developer | 🤖 ML Enthusiast| 🔍 Former SDET in Amdocs | Comcast </h3>
-<p align="center">💻 Currently diving deep into <strong>Machine Learning</strong> and <strong>Software Engineering</strong></p>
+<h3>🚀 Graduate Student at GWU | 🌐 Software Developer | 🤖 ML Enthusiast| 🔍 Former Sotware Engineer @ Amdocs | Comcast </h3>
+
 
 
 <div class="badge" align="center">
@@ -11,92 +11,101 @@
 </div>
 
 
+### 🌟 About Me
 
+- 🎓 I'm currently pursuing my Master’s in Computer Science at **George Washington University**  
+- 💡 I'm passionate about **Software Development**, **Problem Solving**, and **Data Science**
+- 🌱 I’m always learning and exploring areas like **AI**, **Cloud**, and **System Design**
+- 🤝 I'm open to **Full-Time SDE Opportunities**, **collaborations**, **research**, or **internship opportunities**
+- ✍️ I write technical blogs on [Medium](https://medium.com/@pratichi3)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/10L6FNXc6W0d6j61HiwU1OPQmvvRO0xcp/view?usp=drive_link)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pratichi11/)
 
+---
 
-<h2>🌟 About Me</h2>
-<p align="left">
-    🎓 Graduate Student at <strong>George Washington University</strong><br>
-    💻 Passionate about <strong>Software Development</strong>,  <strong>Solving Problems<strong>, and <strong>Data Science</strong><br>
-    🤝 Always open to collaborations and opportunities in the tech space.<br>
-    📝 Check out my articles on <a href="https://medium.com/@pratichi3" target="_blank" style="color: #ffcc00;">Medium</a><br>
-    📬 Connect with me on <a href="https://www.linkedin.com/in/pratichi11/" target="_blank" style="color: #ffcc00;">LinkedIn</a><br>
-    📄 View my <a href="https://drive.google.com/file/d/1HEN1bSbsGOmLCcraWxoHo3VanupZ5Y3Y/view?usp=drive_link">Resume</a>
-</p>
+### 🔗 Let's Connect
 
-<h2 align="center">🔗 Let's Connect</h2>
-<div align="center" class="social-links">
-    <a href="https://www.linkedin.com/in/pratichi11/" target="blank">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+<p align="center">
+    <a href="https://www.linkedin.com/in/pratichi11/" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/pratichi_02/" target="blank">
-        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-    </a>
-    <a href="https://medium.com/@pratichi3" target="blank">
-        <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium"/>
-    </a>
-    <a href="https://www.hackerrank.com/profile/pratichi3" target="blank">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="Hackerrank"/>
-    </a>
-    <a href="https://www.quora.com/profile/Pratichi-11" target="blank">
-        <img src="https://img.icons8.com/color/48/000000/quora.png" alt="Quora"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/user/noob_pratichi/" target="blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" height="48" alt="GeeksforGeeks"/>
-    </a>
-    <a href="https://leetcode.com/u/prat_noob/" target="blank">
+    <a href="https://leetcode.com/u/prat_noob/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="48" height="48" alt="LeetCode"/>
     </a>
-    
-</div>
+    <a href="https://medium.com/@pratichi3" target="_blank">
+        <img src="https://img.icons8.com/color/48/000000/medium-monogram.png" alt="Medium"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/noob_pratichi/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="48" height="48" alt="GeeksforGeeks"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/pratichi3" target="_blank">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-logo-color-tal-revivo.png" alt="Hackerrank"/>
+    </a>
+</p>
 
+# 🚀 Few Featured Projects
 
-<h2>🛠️ Tech Stack</h2>
+### 🎥 Movie Recommendation System  
+🔗 [Live Demo](https://drive.google.com/file/d/1xZlz1639uakNRlEQW08abXfkQ0W-FJWJ/view?usp=sharing)
+🔗 [Source Code](https://github.com/FnuPratichi/AWSec2-dockerized-movie-recommendation)
 
-<div>
-    <div>
-        <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python" alt="Python"/>
-        <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus" alt="C++"/>
-        <img src="https://img.shields.io/badge/-R-blue?style=flat-square&logo=r" alt="R"/>
-        <img src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql" alt="SQL"/>
-    </div>
+### 💬 Full-stack Student-Admin Management System 
+🔗 [Live Demo](https://drive.google.com/file/d/1gQp89QeTFFnt53DU6_wp3h_2lQwUn1Zg/view?usp=sharing) 
+🔗 [Source Code](https://github.com/FnuPratichi/Full-Stack-Admin-Student-Management-Dashboard)  
 
-  <div>
-        <img src="https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas" alt="Pandas"/>
-        <img src="https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy" alt="NumPy"/>
-        <img src="https://img.shields.io/badge/-Scikit%20Learn-blue?style=flat-square&logo=scikit-learn" alt="Scikit-learn"/>
-        <img src="https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib" alt="Matplotlib"/>
-        <img src="https://img.shields.io/badge/-Seaborn-blue?style=flat-square&logo=seaborn" alt="Seaborn"/>
-        <img src="https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau" alt="Tableau"/>
-        <img src="https://img.shields.io/badge/-Power%20BI-blue?style=flat-square&logo=powerbi" alt="Power BI"/>
-    </div>
+### 🛍️ Full-Stack E-Commerce Platform  
+🔗 [Source Code](https://github.com/FnuPratichi/Full-Stack-E-Commerce-Platform-using-Spring-Boot)  
 
-  <div>
-        <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/-Oracle%20SQL-blue?style=flat-square&logo=oracle" alt="Oracle SQL"/>
-        <img src="https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazonaws" alt="AWS"/>
-        <img src="https://img.shields.io/badge/-EC2-blue?style=flat-square&logo=amazonaws" alt="EC2"/>
-        <img src="https://img.shields.io/badge/-RDS-blue?style=flat-square&logo=amazonaws" alt="RDS"/>
-        <img src="https://img.shields.io/badge/-S3-blue?style=flat-square&logo=amazonaws" alt="S3"/>
-        <img src="https://img.shields.io/badge/-Lambda-blue?style=flat-square&logo=amazonaws" alt="Lambda"/>
-    </div>
+---
+## 🛠️ Tech Stack
 
-  <div>
-        <img src="https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask" alt="Flask"/>
-        <img src="https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react" alt="React"/>
-        <img src="https://img.shields.io/badge/-Jenkins-blue?style=flat-square&logo=jenkins" alt="Jenkins"/>
-        <img src="https://img.shields.io/badge/-Git-blue?style=flat-square&logo=git" alt="Git"/>
-        <img src="https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visualstudiocode" alt="VS Code"/>
-    </div>
+**Languages & Programming:**  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus)  
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql)  
+![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)  
 
-  <div>
-        <img src="https://img.shields.io/badge/-Ginger-blue?style=flat-square&logo=ginger" alt="Ginger"/>
-        <img src="https://img.shields.io/badge/-Oracle%20Data%20Modeler-blue?style=flat-square&logo=oracle" alt="Oracle Data Modeler"/>
-        <img src="https://img.shields.io/badge/-CRM-blue?style=flat-square&logo=crm" alt="CRM"/>
-        <img src="https://img.shields.io/badge/-Unix-blue?style=flat-square&logo=unix" alt="Unix"/>
-    </div>
-</div>
+**Data & ML Tools:**  
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)  
+![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy)  
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-blue?style=flat-square&logo=scikit-learn)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)  
+![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)  
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib)  
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat-square&logo=seaborn)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)  
+
+**Databases & BI:**  
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)  
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-blue?style=flat-square&logo=oracle)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)  
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=flat-square&logo=powerbi)  
+
+**Cloud & Backend:**  
+![AWS](https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazonaws)  
+![EC2](https://img.shields.io/badge/-EC2-blue?style=flat-square&logo=amazonaws)  
+![RDS](https://img.shields.io/badge/-RDS-blue?style=flat-square&logo=amazonaws)  
+![Lambda](https://img.shields.io/badge/-Lambda-blue?style=flat-square&logo=amazonaws)  
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
+
+**Frameworks:**  
+![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)  
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)  
+![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
+
+---
+
+## 📫 How to Reach Me
+
+- **Email**: pratichi.lnu@gwu.edu  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/pratichi11/)  
+- **GitHub**: [GitHub Profile](https://github.com/FnuPratichi)
+
 
 
 <h2>🌐 GitHub Achievements</h2>
