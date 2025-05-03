@@ -45,60 +45,76 @@
 
 # 🚀 Few Featured Projects
 
-### 🎥 Movie Recommendation System  
+### 🎥 1. Movie Recommendation System  
+Built a scalable recommendation system using Python, Flask, PostgreSQL, and Docker.
 🔗 [Live Demo](https://drive.google.com/file/d/1xZlz1639uakNRlEQW08abXfkQ0W-FJWJ/view?usp=sharing)
 🔗 [Source Code](https://github.com/FnuPratichi/AWSec2-dockerized-movie-recommendation)
 
-### 💬 Full-stack Student-Admin Management System 
+### 🛍️ 2. Full-Stack E-Commerce Platform  
+Built a secure, scalable e-commerce platform using Java, Spring Boot, Angular, and PostgreSQL.
+🔗 [Source Code](https://github.com/FnuPratichi/Full-Stack-E-Commerce-Platform-using-Spring-Boot)  
+
+
+### 💬 3. Full-stack Student-Admin Management System 
+Developed a role-based full-stack admin-student management system with Python, Flask, Javascript, HTML5/CSS AWS and PostgreSQL.
 🔗 [Live Demo](https://drive.google.com/file/d/1gQp89QeTFFnt53DU6_wp3h_2lQwUn1Zg/view?usp=sharing) 
 🔗 [Source Code](https://github.com/FnuPratichi/Full-Stack-Admin-Student-Management-Dashboard)  
-
-### 🛍️ Full-Stack E-Commerce Platform  
-🔗 [Source Code](https://github.com/FnuPratichi/Full-Stack-E-Commerce-Platform-using-Spring-Boot)  
 
 ---
 ## 🛠️ Tech Stack
 
-**Languages & Programming:**  
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus)  
-![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)  
-![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql)  
-![Go](https://img.shields.io/badge/-Go-blue?style=flat-square&logo=go)  
+### **Languages:**
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C%2B%2B-blue?style=flat-square&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=mysql)
 
-**Data & ML Tools:**  
-![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-blue?style=flat-square&logo=scikit-learn)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)  
-![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?style=flat-square&logo=matplotlib)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=flat-square&logo=seaborn)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)  
+### **Frameworks & Tools:**
+![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)
+![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-yellow?style=flat-square&logo=spring)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 
-**Databases & BI:**  
-![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)  
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-blue?style=flat-square&logo=oracle)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)  
-![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-blue?style=flat-square&logo=powerbi)  
+### **ML & Data Tools:**
+![Pandas](https://img.shields.io/badge/-Pandas-blue?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-blue?style=flat-square&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-blue?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-red?style=flat-square&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch)
 
-**Cloud & Backend:**  
-![AWS](https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazonaws)  
-![EC2](https://img.shields.io/badge/-EC2-blue?style=flat-square&logo=amazonaws)  
-![RDS](https://img.shields.io/badge/-RDS-blue?style=flat-square&logo=amazonaws)  
-![Lambda](https://img.shields.io/badge/-Lambda-blue?style=flat-square&logo=amazonaws)  
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
+### **Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/-AWS-blue?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-blue?style=flat-square&logo=ci)
 
-**Frameworks:**  
-![Flask](https://img.shields.io/badge/-Flask-blue?style=flat-square&logo=flask)  
-![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django)  
-![React.js](https://img.shields.io/badge/-React.js-blue?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)  
+### **Databases:**
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
 
----
+### **Version Control & Methodologies:**
+![Git](https://img.shields.io/badge/-Git-orange?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-blue?style=flat-square&logo=gitlab)
+![Agile](https://img.shields.io/badge/-Agile-yellow?style=flat-square&logo=agile)
+
+### **Testing & Automation:**
+![JUnit](https://img.shields.io/badge/-JUnit-blue?style=flat-square&logo=junit)
+![PyTest](https://img.shields.io/badge/-PyTest-blue?style=flat-square&logo=pytest)
+![Selenium](https://img.shields.io/badge/-Selenium-green?style=flat-square&logo=selenium)
+![TDD](https://img.shields.io/badge/-TDD-blue?style=flat-square&logo=tdd)
+
+### **Software Engineering Concepts:**
+- **Algorithms**  
+- **Data Structures**  
+- **OOP**  
+- **Design Patterns**
+
 
 ## 📫 How to Reach Me
 
