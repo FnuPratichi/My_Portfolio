@@ -19,7 +19,7 @@
 - 🌱 I’m always learning and exploring areas like **AI**, **Cloud**, and **System Design**
 - 🤝 I'm open to **Full-Time SDE Opportunities**, **collaborations**, **research**, or **internship opportunities**
 - ✍️ I write technical blogs on [Medium](https://medium.com/@pratichi3)
-- 📄 Check out my [Resume](https://drive.google.com/file/d/10L6FNXc6W0d6j61HiwU1OPQmvvRO0xcp/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1Ho3Zhn6K2at9tpAKZ53u_LGr-9RFefCH/view)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pratichi11/)
 
 ---
