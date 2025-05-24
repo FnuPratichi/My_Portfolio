@@ -1,5 +1,5 @@
 ![Profile Views](https://shields.io/badge/dynamic/json?url=https://api.github.com/users/FnuPratichi&query=$.public_repos&label=Profile%20Views&color=blue)
-
+<h1><strong>Old Potfolio - check my new portfolio here : https://fnupratichi.github.io/personal-portfolio/</strong></h1>
 <h1><strong>Hey there! 👋 I'm Pratichi</strong></h1>
 <h3>🚀 Graduate Student at GWU | 🌐 Software Developer | 🤖 ML Enthusiast| 🔍 Former Sotware Engineer @ Amdocs | Comcast </h3>
 
